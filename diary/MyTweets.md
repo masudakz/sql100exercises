@@ -2,19 +2,30 @@ My Tweets
 
 # 2016/3
 
-- https://twitter.com/masudakz/status/715544775437324288
+- https://twitter.com/masudakz/status/715544775437324288  
+大臣、一冊本でも書いてみる？と水をむけられる。知ってる範囲じゃ退職と就職の間の無職のときに書いた人が多くて、肩叩きにも聞こえる。しかし、書くとしたらと考えるのは楽しいかも。直球勝負できる尖んがった知識はないので、ひねりなさい、ひねりなさい。
 
 # 2016/4
 
 - https://twitter.com/masudakz/status/716246845266104320
-- https://twitter.com/masudakz/status/716249767861362692
-- https://twitter.com/masudakz/status/716251739381346304
-- https://twitter.com/masudakz/status/716253688013004800
-- https://twitter.com/masudakz/status/716834381319385088
-- https://twitter.com/masudakz/status/717490530779684864
+どんな本なら書きたいか、書く気になるか、というとこんなのだよな。女子アシスタントとボケ・ツッコミする学習本。昭和の共立出版bitとかラジコン技術でも対話形式のが長期連載になる人気企画だった。NHK教育でも定番。「？Ｅテレのこと？」
+- https://twitter.com/masudakz/status/716249767861362692  
+「新卒IT女子のSQL力を高める本」とかで、この路線にして、女子アシスタント兼口述筆記兼エディタがつけば、なんぼでも書けそうなきがするじゃんか。しかし予算持っているCDOに大臣がかけあっても、リアル女子アシをつけてくれるわけないわな。ならばAIだ。りんなだ。
+- https://twitter.com/masudakz/status/716251739381346304  
+JK-AIとSQLチャットしているうちに、本ができる。これならいけるぞ。SQLとAWSで2冊、この路線ででっちあげるうちに、AIの質問力・ボケ力・エディタ力を鍛えて、多忙過ぎて本を書く暇のない本物の技術者に送り込み次から次へと共著を出す。スケールする。自力で書かずに夢に印税生活。
+- https://twitter.com/masudakz/status/716253688013004800  
+AIには、新作小説かかせるより、こういう路線で共著者として育てるほうがみんな幸せになるんじゃねーの。
+- https://twitter.com/masudakz/status/716834381319385088  
+30年ほど前1MBのソフトが58K円のときは、この制作システムで気狂いじみて高品質の製本マニュアル作ってた会社が実在した 。
+- https://twitter.com/masudakz/status/717490530779684864  
+書籍化するAIとの対話なので文字だけで伝わるキャラ付けがいる。阿波弁を仕込もう。
+「ほなけんど、阿波弁よう知らんのじょ」
+「本を書く」から始めて、まず阿波弁女子AIを作るまで来た。ひねりは十分だ。
 - https://twitter.com/masudakz/status/717493416293044228
 
 # 2016/6
 
-- https://twitter.com/masudakz/status/747797397502230528
-- https://twitter.com/masudakz/status/748481570432917504
+- https://twitter.com/masudakz/status/747797397502230528  
+3カ月して進捗ありません。これじゃいかんので宣言駆動する。来年の技術書展に「トップをねらえ！SQL100本ノック」でサークル参加する。
+- https://twitter.com/masudakz/status/748481570432917504  
+技術書展のためにその1。まずはGithubにアカウント作りに行く。masudakz 既存。しゃあないなと後ろにゴニョゴニョ付けてメアド。げ？メアドもかぶった？ そんなバカな。俺だよ俺。2012年にplayframeworkの写経勉強とgit勉強のために登録してたのだった。
