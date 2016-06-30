@@ -1,2 +1,2 @@
-# sql100drills
-100 Drills for SQL beginner.
+# sql100exercises
+100 exercises for SQL beginner.
