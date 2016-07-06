@@ -1,16 +1,16 @@
-LIMIT 1
+# LIMIT 1
 
-# 問題
+## 問題
 
 名前だけわかっているTABLEの全ての列名を知る。できれば各列のサンプルデータも。
 
-# SQL
+## SQL
 
 ```sql
 SELECT * FROM corporations LIMIT 1;
 ```
 
-# 結果
+## 結果
 
 ```
 sql100=# SELECT * FROM corporations LIMIT 1;
@@ -20,6 +20,6 @@ sql100=# SELECT * FROM corporations LIMIT 1;
 ２２３ |                  | 31              | 201       | 6800011   |                 |                          |            |             |                            |              | 2015-10-05
 ```
 
-# 解説
+## 解説
 
 TBF
