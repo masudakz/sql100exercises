@@ -4,4 +4,5 @@ SELECT
   name, 
   update_date 
 FROM corporations 
-LIMIT 30;
+-- LIMIT 30
+;
